@@ -1,0 +1,21 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.navigation-btn {
+  border: none;
+  outline: none;
+  padding: 8px 14px;
+  box-shadow: 0 0 5px gray;
+  color: white;
+  background-color: rgb(103, 76, 221);
+  border-radius: 1rem;
+}
+
+.navigation-btn:hover {
+  background-color: rgb(71, 40, 207);
+  cursor: pointer;
+}
