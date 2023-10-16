@@ -1,2 +1,8 @@
 # oorjan-frontend-assignment
-Created with CodeSandbox
+
+This app is a frontend assignment app of Oorjan.
+
+## Tech Stack
+- React.js
+- JavaScript
+- CSS
